@@ -1,6 +1,6 @@
-### Hello, my name is João Paulo.
+### Olá, meu nome é João Paulo.
 
-Atualmente estou trabalhando em uma equipe de desenvolvedores Java em uma empresa e estudando ao mesmo tempo Análise e Desenvolvimento de Sistemas
+Atualmente estou trabalhando em uma equipe de desenvolvedores Java em uma empresa e estudando ao mesmo tempo Análise e Desenvolvimento de Sistemas. Também estou aprendendo Java EE, Servlets, JSP, Spring Framework, Angular, Javascript, como modelar Bancos de Dados Relacionais em SQL e assim por diante.
 
 ### 🚀 Progress:
 
